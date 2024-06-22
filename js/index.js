@@ -41,3 +41,5 @@ function SacarArea(a,b){
     let area=a*b;
     console.log(area);
 }
+
+//Hola amor de mi vida corazon muaaak
